@@ -132,6 +132,4 @@ The **Student Performance Dashboard** in Power BI helps educators and analysts:
 ---
 
 **Project Title:** *Student Performance Analysis using Power BI*
-**Prepared by:** *[Your Name]*
-**Role:** *Data Analyst / Power BI Developer*
 **Tools Used:** *Power BI, Excel, Power Query, DAX*
